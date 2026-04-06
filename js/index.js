@@ -13,3 +13,4 @@ resultado.textContent =
         " | Precio: $" + precio +
         " | Disponible: " + (disponible ? "Sí" : "No");
 }
+
